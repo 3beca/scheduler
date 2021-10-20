@@ -51,7 +51,7 @@
     "ajv": "^7.1.1",
     "ajv-errors": "^2.0.1",
     "ajv-formats": "^1.6.0",
-    "convict": "^6.2.0",
+    "convict": "^6.2.1",
     "fastify": "^3.22.1",
     "fastify-swagger": "^4.12.5",
     "make-promises-safe": "^5.1.0",
