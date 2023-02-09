@@ -52,7 +52,7 @@
     "ajv-errors": "^2.0.1",
     "ajv-formats": "^1.6.0",
     "convict": "^6.2.3",
-    "fastify": "^3.29.0",
+    "fastify": "^4.13.0",
     "fastify-swagger": "^5.2.0",
     "make-promises-safe": "^5.1.0",
     "mongodb": "^3.6.10",
